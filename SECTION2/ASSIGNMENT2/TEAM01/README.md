@@ -6,8 +6,8 @@ Put your name in the Team Section and comment
 
 ## Team
 
-Gabriel Roth
+Gabriel Roth, Valeria Morales
 
 ## Comments
 
-Gabriel Roth
+Gabriel Roth, Valeria Morales
